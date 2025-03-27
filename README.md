@@ -2,7 +2,7 @@
 
 A Java-based GUI application that calculates loan payments, generates amortization schedules, and visualizes payment breakdowns using charts.
 
-![Loan Calculator Screenshot](screenshot.png) *Add actual screenshot later*
+
 
 ## Features
 
