@@ -27,5 +27,5 @@ A Java-based GUI application that calculates loan payments, generates amortizati
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/loan-calculator.git
+   git clone https://github.com/RobertM05/loan-calculator.git
    cd loan-calculator
